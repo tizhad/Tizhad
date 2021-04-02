@@ -1,4 +1,7 @@
 ### Hi there 👋
+## I'm Tina Rezanezhad
+
+[LinkedIn](https://www.linkedin.com/in/tinarezanezhad)
 
 <!--
 **tizhad/Tizhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
