@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/tizhad](https://github.com/tizhad)
+
 
 - 📫 How to reach me **tinarezanezhaad@gmail.com**
 
