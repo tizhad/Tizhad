@@ -1,7 +1,7 @@
-### Hi there 👋
-![Frontend Developer](https://www.rlogical.com/wp-content/uploads/2019/07/frontend-dev.png)
+### Hi, I'm Tina 👋
+![Developer](https://www.rlogical.com/wp-content/uploads/2019/07/frontend-dev.png)
 
-## I'm Tina Rezanezhad
+## A passionate Junior Full Stack Developer.
 
 [LinkedIn](https://www.linkedin.com/in/tinarezanezhad)
 
