@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tina</h1>
-<h3 align="center">A passionate Full Stack developer with background in business and product management</h3>
+<h3 align="center">A passionate developer with background in business and product management</h3>
 
 
 
