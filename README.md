@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tina</h1>
-<h3 align="center">Passionate about startups, JavaScript,  learning, and code.</h3>
+<h3 align="center">Passionate about startups, learning, and code.</h3>
 
 
 
