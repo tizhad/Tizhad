@@ -57,11 +57,6 @@
 
 
 
-### DevOps  
-<div align="center">  
-  
-</div>
-
 </td></tr></table>  
 
 <br/>  
