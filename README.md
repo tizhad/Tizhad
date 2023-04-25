@@ -1,1 +1,1 @@
-- 🔭 I’m currently working as a developer on a Operation Optimization product for asset rich companies.
+- 🔭 I’m currently working as a Software Developer on an Operation Optimization product for companies with significant assets.
